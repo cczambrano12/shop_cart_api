@@ -1,4 +1,4 @@
-# shop_cart_api
+# shop_cart_backend
 Shop cart - Laravel API
 
 ## Requisitos
