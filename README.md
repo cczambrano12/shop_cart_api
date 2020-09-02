@@ -9,7 +9,7 @@ Shop cart - Laravel API
 
 ## Instalación y ejecución
 1. Descargue el proyecto:  
-`git clone https://github.com/cczambrano12/shop_cart_api shop_cart_backend`  
+`git clone https://github.com/cczambrano12/shop_cart_backend shop_cart_backend`  
 
 2. Ubíquese dentro de la carpeta del proyecto:  
 `cd shop_cart_backend`  
