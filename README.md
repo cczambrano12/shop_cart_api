@@ -31,7 +31,7 @@ Shop cart - Laravel API
 6. Ejecute el seeder de la lista de productos para crear registros pre existentes en la tabla de productos:  
 `php artisan db:seed --class="ProductsSeeder"`
 
-7. Ejecute el servidor de desarrollo. Por defecto Laravel ejecuta el servidor de desarrollo en *localhost:8000*.    
-`php artisan serve`  
+7. Ejecute el servidor de desarrollo. Por defecto Laravel ejecuta el servidor de desarrollo en *localhost:8000*.     
+`php artisan --env=development serve`  
 
 8. Ejecutar el Frontend [shop_cart_frontend](https://github.com/cczambrano12/shop_cart_frontend)
