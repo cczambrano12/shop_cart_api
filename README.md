@@ -32,6 +32,6 @@ Shop cart - Laravel API
 `php artisan db:seed --class="ProductsSeeder"`
 
 7. Ejecute el servidor de desarrollo. Por defecto Laravel ejecuta el servidor de desarrollo en *localhost:8000*.     
-`php artisan --env=development serve`  
+`php artisan serve`  
 
 8. Ejecutar el Frontend [shop_cart_frontend](https://github.com/cczambrano12/shop_cart_frontend)
